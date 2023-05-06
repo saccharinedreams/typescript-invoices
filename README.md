@@ -1,4 +1,4 @@
-# sphere-take-home
+# TypeScript invoices
 System for creating and processing invoices in TypeScript.
 
 "npm start" in cmd to host on port 3000.
