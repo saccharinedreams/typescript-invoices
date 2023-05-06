@@ -1,5 +1,5 @@
 # TypeScript invoices
-System for creating and processing invoices in TypeScript. Originally, I created a slightly more involved system, but I could not get my Mongodb cluster to work in time; now everything is in invoice.ts. The previous implementation attempt with a Mongo cluster is in [mongo/](mongo/). If you'd like to check that out. I separated the CRUD routes to [invoiceRouter.ts](mongo/routees/invoiceRouter.ts/), and invoice schema and interface to [mongo/models/invoice.ts](mongo/models/invoice.ts/).
+System for creating and processing invoices in TypeScript. Originally, I created a slightly more involved system, but I could not get my Mongodb cluster to work in time; now everything is in invoice.ts. The previous implementation attempt with a Mongo cluster is in [mongo/](mongo/). If you'd like to check that out. I separated the CRUD routes to [invoiceRouter.ts](mongo/routes/invoiceRouter.ts), and invoice schema and interface to [mongo/models/invoice.ts](mongo/models/invoice.ts/).
 
 Instructions:
 "npm start" in cmd to host on port 3000.
