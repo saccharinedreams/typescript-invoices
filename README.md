@@ -1,5 +1,5 @@
 # TypeScript invoices
-System for creating and processing invoices in TypeScript. Originally, I created a slightly more involved system, but I could not get my Mongodb cluster to work in time, so now everything is in invoice.ts.
+System for creating and processing invoices in TypeScript. Originally, I created a slightly more involved system, but I could not get my Mongodb cluster to work in time; now everything is in invoice.ts.
 
 Instructions:
 "npm start" in cmd to host on port 3000.
