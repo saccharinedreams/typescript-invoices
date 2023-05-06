@@ -7,6 +7,8 @@ Originally, I created a slightly more involved system, but I could not get my Mo
 
 I used Postman to test with GET and POST requests.
 
+![GET request, tested through Postman Desktop](images/GET_request.png)
+
 Dependencies:
 
 express - web application framework for Node.js; define HTTP routes, middleware functions, and other functionality to handle incoming requests and produce responses.
